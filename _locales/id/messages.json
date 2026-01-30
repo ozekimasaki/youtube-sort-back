@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Kembalikan pengurutan pencarian YouTube (Tanggal unggah / Jumlah tayangan)"
+  },
+  "extensionDescription": {
+    "message": "Mengembalikan pengurutan di hasil pencarian YouTube dengan tombol Tanggal unggah / Jumlah tayangan."
+  },
+  "sortUploadDate": {
+    "message": "Tanggal unggah"
+  },
+  "sortViewCount": {
+    "message": "Jumlah tayangan"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "YouTube 검색 정렬 복원(업로드 날짜/조회수)"
+  },
+  "extensionDescription": {
+    "message": "YouTube 검색 결과에서 '업로드 날짜' 및 '조회수' 정렬 버튼을 다시 추가합니다."
+  },
+  "sortUploadDate": {
+    "message": "업로드 날짜"
+  },
+  "sortViewCount": {
+    "message": "조회수"
+  }
+}

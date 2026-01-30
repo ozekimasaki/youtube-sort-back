@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Ordinamento ricerca YouTube (Data di caricamento / Visualizzazioni)"
+  },
+  "extensionDescription": {
+    "message": "Ripristina l'ordinamento nei risultati di ricerca di YouTube con pulsanti per Data di caricamento / Visualizzazioni."
+  },
+  "sortUploadDate": {
+    "message": "Data di caricamento"
+  },
+  "sortViewCount": {
+    "message": "Visualizzazioni"
+  }
+}

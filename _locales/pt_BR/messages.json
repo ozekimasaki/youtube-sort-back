@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Ordenar pesquisa do YouTube (Data de envio / Visualizações)"
+  },
+  "extensionDescription": {
+    "message": "Traz de volta a ordenação nos resultados de pesquisa do YouTube com botões para Data de envio / Visualizações."
+  },
+  "sortUploadDate": {
+    "message": "Data de envio"
+  },
+  "sortViewCount": {
+    "message": "Visualizações"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Вернуть сортировку поиска YouTube (Дата загрузки / Просмотры)"
+  },
+  "extensionDescription": {
+    "message": "Возвращает сортировку в результатах поиска YouTube с кнопками Дата загрузки / Просмотры."
+  },
+  "sortUploadDate": {
+    "message": "Дата загрузки"
+  },
+  "sortViewCount": {
+    "message": "Просмотры"
+  }
+}

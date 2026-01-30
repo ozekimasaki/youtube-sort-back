@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "YouTube検索ソート復活（アップロード日／視聴回数）"
+  },
+  "extensionDescription": {
+    "message": "YouTube検索結果に『アップロード日』『視聴回数』で並び替えるボタンを追加します。"
+  },
+  "sortUploadDate": {
+    "message": "最新順"
+  },
+  "sortViewCount": {
+    "message": "視聴回数順"
+  }
+}

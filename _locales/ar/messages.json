@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "إعادة فرز بحث YouTube (تاريخ الرفع/عدد المشاهدات)"
+  },
+  "extensionDescription": {
+    "message": "يعيد الفرز في نتائج بحث YouTube مع أزرار لـ تاريخ الرفع / عدد المشاهدات."
+  },
+  "sortUploadDate": {
+    "message": "تاريخ الرفع"
+  },
+  "sortViewCount": {
+    "message": "عدد المشاهدات"
+  }
+}

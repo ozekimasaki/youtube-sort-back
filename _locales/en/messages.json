@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Bring Back YouTube Search Sort (Upload Date / Views)"
+  },
+  "extensionDescription": {
+    "message": "Brings back sorting on YouTube search results with buttons for Upload Date / Views."
+  },
+  "sortUploadDate": {
+    "message": "Upload date"
+  },
+  "sortViewCount": {
+    "message": "View count"
+  }
+}

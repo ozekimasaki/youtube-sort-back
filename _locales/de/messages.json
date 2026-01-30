@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "YouTube-Suche sortieren wiederherstellen (Upload-Datum / Aufrufe)"
+  },
+  "extensionDescription": {
+    "message": "Bringt die Sortierung in YouTube-Suchergebnissen mit Schaltflächen für Upload-Datum / Aufrufe zurück."
+  },
+  "sortUploadDate": {
+    "message": "Upload-Datum"
+  },
+  "sortViewCount": {
+    "message": "Aufrufe"
+  }
+}

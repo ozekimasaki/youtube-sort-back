@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Rétablir le tri de recherche YouTube (Date de mise en ligne / Vues)"
+  },
+  "extensionDescription": {
+    "message": "Rétablit le tri dans les résultats de recherche YouTube avec des boutons pour Date de mise en ligne / Vues."
+  },
+  "sortUploadDate": {
+    "message": "Date de mise en ligne"
+  },
+  "sortViewCount": {
+    "message": "Vues"
+  }
+}

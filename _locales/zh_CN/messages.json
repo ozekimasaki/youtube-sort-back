@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "恢复 YouTube 搜索排序（上传日期/播放次数）"
+  },
+  "extensionDescription": {
+    "message": "在 YouTube 搜索结果页添加按“上传日期”和“播放次数”排序的按钮。"
+  },
+  "sortUploadDate": {
+    "message": "上传日期"
+  },
+  "sortViewCount": {
+    "message": "播放次数"
+  }
+}

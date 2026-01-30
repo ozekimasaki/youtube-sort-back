@@ -1,0 +1,9 @@
+{
+  "name": "youtube_sort_back",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "zip": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"$ErrorActionPreference = 'Stop'; $zip='youtube_sort_back.zip'; $staging='.zip_staging'; if (Test-Path $staging) { Remove-Item -Recurse -Force $staging }; New-Item -ItemType Directory -Path $staging | Out-Null; Copy-Item -Force manifest.json -Destination $staging; Copy-Item -Force content.js -Destination $staging; if (Test-Path icons) { Copy-Item -Recurse -Force icons -Destination $staging }; if (Test-Path _locales) { Copy-Item -Recurse -Force _locales -Destination $staging }; if (Test-Path LICENSE) { Copy-Item -Force LICENSE -Destination $staging }; if (Test-Path README.md) { Copy-Item -Force README.md -Destination $staging }; if (Test-Path $zip) { Remove-Item -Force $zip }; Compress-Archive -Path ($staging + '\\*') -DestinationPath $zip -Force; Remove-Item -Recurse -Force $staging\"",
+    "zip:clean": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"if (Test-Path youtube_sort_back.zip) { Remove-Item -Force youtube_sort_back.zip }\""
+  }
+}

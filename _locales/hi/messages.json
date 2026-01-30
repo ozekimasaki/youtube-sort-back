@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "YouTube खोज सॉर्टिंग वापस लाएँ (अपलोड तिथि / व्यूज़)"
+  },
+  "extensionDescription": {
+    "message": "YouTube खोज परिणामों में अपलोड तिथि / व्यूज़ के लिए बटन के साथ सॉर्टिंग वापस लाता है।"
+  },
+  "sortUploadDate": {
+    "message": "अपलोड तिथि"
+  },
+  "sortViewCount": {
+    "message": "व्यूज़"
+  }
+}

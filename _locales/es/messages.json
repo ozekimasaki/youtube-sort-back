@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Recuperar la ordenación de búsqueda de YouTube (Fecha de subida / Vistas)"
+  },
+  "extensionDescription": {
+    "message": "Recupera la ordenación en los resultados de búsqueda de YouTube con botones para Fecha de subida / Vistas."
+  },
+  "sortUploadDate": {
+    "message": "Fecha de subida"
+  },
+  "sortViewCount": {
+    "message": "Vistas"
+  }
+}
